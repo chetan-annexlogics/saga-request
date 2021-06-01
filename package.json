@@ -1,5 +1,5 @@
 {
-  "name": "redux-saga-request",
+  "name": "saga-request",
   "version": "1.0.0",
   "description": "Helper functions for easier development of API requests using redux and redux-saga",
   "main": "lib/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/razvansandu/redux-saga-request.git"
+    "url": "git+ssh://git@github.com/chetan-annexlogics/saga-request.git"
   },
   "keywords": [
     "redux",
@@ -28,9 +28,9 @@
   "author": "Mihai Muresan, Razvan Sandu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/razvansandu/redux-saga-request/issues"
+    "url": "https://github.com/chetan-annexlogics/saga-request.git/issues"
   },
-  "homepage": "https://github.com/razvansandu/redux-saga-request#readme",
+  "homepage": "https://github.com/chetan-annexlogics/saga-request.gitt#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
