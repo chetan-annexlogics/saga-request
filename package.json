@@ -28,7 +28,7 @@
   "author": "Mihai Muresan, Razvan Sandu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/razvansandu/redux-saga-request/issues"
+    "url": "https://github.com/razvansandu/saga-request/issues"
   },
   "homepage": "https://github.com/chetan-annexlogics/saga-request.gitt#readme",
   "devDependencies": {
